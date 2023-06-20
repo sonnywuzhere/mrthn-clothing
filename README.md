@@ -1,3 +1,9 @@
+# First major project with Create React App
+
+Oh, heyyyy! This project was built from a course on React from
+Zero to Mastery. It's my first major project using Create React
+App, and I've been having so much fun while going in depth on React!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
